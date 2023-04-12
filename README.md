@@ -1,2 +1,0 @@
-# SQL-portfolio
-SQL Projects
